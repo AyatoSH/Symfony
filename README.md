@@ -1,4 +1,4 @@
-# symfony
+# Symfony
 
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
@@ -8,7 +8,7 @@ Symfony est un bot discord révolutionnaire !
 
 ## Utilisation
 
-Symfony possède énormément de commandes ainsi des fonctionnalités sympatiques : 
+Symfony possède énormément de commandes ainsi des fonctionnalités sympathiques : 
 
 👑 - Un menu de configuration
 😎 - Plusieurs systèmes intéressants (logs, système d'arrivée, système de départ, anti-bot, anti-raid ect..)
