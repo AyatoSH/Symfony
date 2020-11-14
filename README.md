@@ -30,3 +30,8 @@ Remerciement à Soon & Clayton pour la contribution dans le développement.
 **Dernière version :** 3.1
 
 
+## Lien utiles
+
+Voici quelques liens utiles :
+* [Lien d'invitation du bot](https://discord.com/oauth2/authorize?client_id=758824503937204264&scope=bot&permissions=8)
+* [Lien d'invitation du support](https://discord.gg/4jqnAfs)
