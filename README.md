@@ -15,11 +15,9 @@ Symfony possède énormément de commandes ainsi des fonctionnalités sympathiqu
 🤖 - Un support à l'écoute 24/24h 7/7j
 💼 - Des recrutements sans durée déterminée !
 
-## Développé avec le langage
+## Développement
 
-Javascript
-
-_exemples :_
+Voici ce qui consiste Symfony
 * [Javascript]() - Javascript
 * [Discord.js](https://discord.js.org/) - Discord.js
 
